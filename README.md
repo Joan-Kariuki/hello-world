@@ -1,3 +1,3 @@
 # hello-world
 First repo
-I am a software engineering newbie, but not for long
+Hey, I am a software engineering newbie, but not for long. So far, I haven't really fallen in love with any server-side language. 
